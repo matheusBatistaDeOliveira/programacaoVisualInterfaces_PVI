@@ -1,0 +1,13 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+}
+
+.body{
+    padding: 20px;
+    width: 900px;
+    height: 900px;
+    background-color:black;
+}
