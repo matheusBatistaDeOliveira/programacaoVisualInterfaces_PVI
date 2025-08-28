@@ -1,0 +1,5 @@
+A Aula 3 tem uma inconstância
+a font utilizada roboto, não havia no meu VS CODE, e eu não tenho ideia do porquê, tive de pôr através de um @import
+
+A Aula 2 tem uma inconstância
+border="1" não funcionou, não sei o porquê, tive de por style na tag
