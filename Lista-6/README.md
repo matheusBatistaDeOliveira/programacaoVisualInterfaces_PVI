@@ -1,1 +1,1 @@
-# Slk, num compensa
+# Slk, num compenza
